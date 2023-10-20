@@ -9,17 +9,17 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM",  Canal 4 GDL HD
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM",  Canal 5
-http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1,group-title="TV PREMIUM",  Azteca 7 HD
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",  A +  
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1,group-title="TV PREMIUM",  NUEVE HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154124
+
 #EXTINF:-1,group-title="TV PREMIUM",  Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM",  Imagen TV
-http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1,group-title="TV PREMIUM",  CNN en EspaÑol
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27981
 #EXTINF:-1,group-title="TV PREMIUM",  Milenio TV
@@ -27,9 +27,9 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Central Comedia HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27982
+
 #EXTINF:-1,group-title="TV PREMIUM", Distrito Comedia HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
+
 #EXTINF:-1,group-title="TV PREMIUM", E! HD
 http://179.51.161.3:8000/play/a05p/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Lifetime HD
