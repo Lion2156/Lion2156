@@ -134,6 +134,8 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/2802
 http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154089
 #EXTINF:-1,group-title="TV PREMIUM", Teen HD
 http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154087
+#EXTINF:-1,group-title="TV PREMIUM", Claro Sport 
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", TUDN
 
 #EXTINF:-1,group-title="TV PREMIUM", ESPN  
